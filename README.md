@@ -1,17 +1,31 @@
-# Industry 4.0 – Scholarly Survey Paper
+# Industry 4.0 Survey + Food Punk Case Study
 
-Schwerpunkt Effizienzgewinne durch IoT, AI, Big Data in Automotive, FMCG & Medizin.
+This repository contains:
+- 📊 **Industry 4.0 Survey Paper** – systematic review of digital transformation in manufacturing
+- 🍴 **Food Punk Case Study** – application of Industry 4.0 concepts in a food-tech business
 
-## ⭐ STAR (Kurzfassung)
-- **Situation:** Breiter technischer Wandel (Industrie 4.0) mit uneinheitlicher Umsetzung in Branchen.
-- **Task:** Systematischer Überblick über Nutzen, Voraussetzungen und Herausforderungen.
-- **Action:** Vergleichende Literaturauswertung, Anwendungen und KPIs; Chancen/Risiken dokumentiert.
-- **Result:** Konkrete Effizienz- und Qualitätsgewinne identifiziert; Implementierungsleitlinien abgeleitet.
+---
 
-## Struktur
-- `docs/figures/` – Bilder & Grafiken
-- `docs/sources/` – Originaldokumente
-- `README.md` – Projektübersicht
+## 📊 Industry 4.0 Survey
+- Topics: Digitalization, Smart Manufacturing, IoT/IIoT, Predictive Maintenance, Digital Twins, Data Analytics
+- Methods: literature survey, cross-industry comparison, KPI analysis
+- ▶️ Read the paper: [Industry4.0_Survey.pdf](docs/Industry4.0_Survey.pdf)
 
-## Lizenz
-MIT
+---
+
+## 🍴 Food Punk Case Study (Industry 4.0 in practice)
+**Situation:** A fast-growing nutrition platform aimed to scale operations and improve customer experience.  
+**Task:** Identify digitalization opportunities using Industry 4.0 frameworks.  
+**Action:**  
+- Mapped core processes (procurement → production → fulfillment)  
+- Assessed bottlenecks and manual error risks  
+- Proposed cloud-based data integration, automated order handling, and KPI dashboards (Power BI)  
+**Result:** Roadmap indicating potential **+20% operational efficiency**, reduced manual errors, and better real-time visibility.  
+- ▶️ Read the case: [FoodPunk_CaseStudy.pdf](docs/FoodPunk_CaseStudy.pdf)
+
+---
+
+## 🔧 Tools & Methods
+Lean Digitalization • KPI dashboards (Power BI/Excel) • Cloud integration concepts (AWS/Cloudflare) • SWOT/BMC • Survey synthesis
+
+## 📂 Repository Structure
