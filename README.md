@@ -1,31 +1,42 @@
-# Industry 4.0 Survey + Food Punk Case Study
+# Industry 4.0 – Survey & SME Case (FoodPunk)
 
-This repository contains:
-- 📊 **Industry 4.0 Survey Paper** – systematic review of digital transformation in manufacturing
-- 🍴 **Food Punk Case Study** – application of Industry 4.0 concepts in a food-tech business
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Industry%204.0-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Methods-BMC%20%7C%20SWOT%20%7C%20Porter-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge" />
+</p>
 
----
-
-## 📊 Industry 4.0 Survey
-- Topics: Digitalization, Smart Manufacturing, IoT/IIoT, Predictive Maintenance, Digital Twins, Data Analytics
-- Methods: literature survey, cross-industry comparison, KPI analysis
-- ▶️ Read the paper: [Industry4.0_Survey.pdf](docs/Industry4.0_Survey.pdf)
+Survey of Industry 4.0 technologies + a concrete SME case on **FoodPunk** (AI-driven nutrition platform).  
+Includes **Business Model Canvas (BMC)**, **SWOT**, **Porter’s Five Forces**, and a **digitalization roadmap**.
 
 ---
 
-## 🍴 Food Punk Case Study (Industry 4.0 in practice)
-**Situation:** A fast-growing nutrition platform aimed to scale operations and improve customer experience.  
-**Task:** Identify digitalization opportunities using Industry 4.0 frameworks.  
-**Action:**  
-- Mapped core processes (procurement → production → fulfillment)  
-- Assessed bottlenecks and manual error risks  
-- Proposed cloud-based data integration, automated order handling, and KPI dashboards (Power BI)  
-**Result:** Roadmap indicating potential **+20% operational efficiency**, reduced manual errors, and better real-time visibility.  
-- ▶️ Read the case: [FoodPunk_CaseStudy.pdf](docs/FoodPunk_CaseStudy.pdf)
+## ⭐ STAR Summary
+
+- **Situation:** Assess how SME(s) can leverage Industry 4.0 to scale digitally while maintaining product quality and customer value.  
+- **Task:** Analyze business model and competitive forces; identify capabilities and gaps; propose an actionable roadmap.  
+- **Action:** Built **BMC**, executed **SWOT** and **Porter 5-Forces**, mapped data/AI flows, and outlined cloud-backed steps (reliability, analytics, personalization).  
+- **Result:** A practical blueprint for FoodPunk: improved transparency, faster decision-making, and scalable operations via **cloud + AI**.
 
 ---
 
-## 🔧 Tools & Methods
-Lean Digitalization • KPI dashboards (Power BI/Excel) • Cloud integration concepts (AWS/Cloudflare) • SWOT/BMC • Survey synthesis
+## 🖼️ Highlights
+![BMC](docs/figures/bmc.png)
+![SWOT](docs/figures/swot.png)
 
-## 📂 Repository Structure
+*(If you exported FoodPunk figures separately, place them in `docs/foodpunk/` and link like `docs/foodpunk/foodpunk-bmc.png`.)*
+
+---
+
+## 📂 Repository Map
+
+- `docs/reports/` – **Industry 4.0 survey** PDF (sanitized)  
+- `docs/foodpunk/` – **FoodPunk case** (BMC/SWOT/Porter, roadmap PDF & figures)  
+- `docs/figures/` – generic figures (BMC/SWOT/5-Forces images)  
+- `docs/artifacts/` – checklists/roadmap tables (CSV)  
+- `LICENSE` – MIT
+
+---
+
+## 🛠️ Methods & Tools
+BMC · SWOT · Porter 5-Forces · Cloud services · AI-driven personalization (high-level)  
